@@ -1,5 +1,6 @@
 # Desafío Académico: Asignación de Recursos para Entrenamiento de IA
-## Métodos Numéricos — Análisis Matemático Completo (Pasos 1–4)
+
+## Métodos Numéricos — Análisis Matemático
 
 ---
 
@@ -367,7 +368,9 @@ plt.show()
 ```
 
 ![Visualización 3D de los tres planos y la solución óptima](grafico.png)
+
 ---
+
 ### Resumen Matemático Consolidado
 
 | Escenario | Matriz | $\mathbf{x}^*$ | $\kappa_\infty(A)$ | $\rho(B_J)$ | $\omega_\text{opt}$ |
@@ -377,5 +380,3 @@ plt.show()
 | Mal C. | $A_3$ (1,0.95,0;…) | (1, 1, 1) | **80** | 0.95 | 1.524 |
 
 ---
-
-Cuando confirmes que los tres escenarios, soluciones exactas y análisis son correctos, procedo con el **Paso 5**: interfaz HTML interactiva con convergencia en tiempo real, graficación de planos 3D y control deslizante de coeficientes.
