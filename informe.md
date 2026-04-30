@@ -2,8 +2,6 @@
 
 ## Métodos Numéricos — Análisis Matemático
 
----
-
 ## Paso 1: Modelado del Tema
 
 ### Contexto del Problema
@@ -367,8 +365,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-** VISUALIZACION INTERACTIVA EN LA PAGINA WEB
-
+**VISUALIZACION INTERACTIVA EN LA PAGINA WEB**
 ![Visualización 3D de los tres planos y la solución óptima](grafico.png)
 
 ---
